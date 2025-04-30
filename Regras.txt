@@ -1,4 +1,4 @@
-Regras:
+Receita de bolo!
 
 1. Escolha de Sabores:
    O cliente pode escolher entre quatro sabores. É necessário confirmar se temos todos os ingredientes disponíveis; caso contrário, o processo deve ser reiniciado.
